@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1537627064 source:h:\xuan\c++\datastructureswithc++usingstl\ch4\prg4_1.cpp
+	<iostream>
+	<string>
+	<ostream>
+	"..\include\d_store.h"
+
+1537628054 h:\xuan\c++\datastructureswithc++usingstl\include\d_store.h
+	<iostream>
+	<ostream>
+

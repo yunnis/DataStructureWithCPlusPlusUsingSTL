@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537605857 source:h:\xuan\c++\datastructureswithc++usingstl\ch3\prg3_3_hanoi.cpp
+	<iostream>
+	<string>
+	<ctime>
+
