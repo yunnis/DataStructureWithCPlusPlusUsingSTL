@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1539418394 source:h:\xuan\c++\datastructureswithc++usingstl\ch6\prg6_1_palindrome.cpp
-	<iostream>
-	<string>
-	<list>
-	<ctype.h>
-
