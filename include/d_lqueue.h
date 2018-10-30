@@ -1,0 +1,6 @@
+#ifndef D_LQUEUE_H_INCLUDED
+#define D_LQUEUE_H_INCLUDED
+
+
+
+#endif // D_LQUEUE_H_INCLUDED
