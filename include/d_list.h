@@ -5,6 +5,8 @@ template <typename T>
 class miniList
 {
 public:
+	// 引入内嵌迭代器类
+	#include "../include/d_liter.h"
 	miniList();
 
 	~miniList();

@@ -7,8 +7,16 @@ public:
 	T nodeValue;
 	dnode<T> *prev;
 	dnode<T> *next;
-	dnode();
-	dnode(const T& value):nodeValue(value);
+	dnode()
+	{
+		prev = this;
+		next = this;
+	}
+	dnode(const T& value):nodeValue(value)
+	{
+		prev = this;
+		next = this;
+	}
 };
 
 

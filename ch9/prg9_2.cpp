@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main()
+int a()
 {
 	int arr[] = {6, 9, 2, 5}, i;
 	int arrSize = sizeof ( arr ) / sizeof ( int );
